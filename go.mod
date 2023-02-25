@@ -49,7 +49,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
+	golang.org/x/sys v0.1.0
 	golang.org/x/term v0.0.0-20201117132131-f5c789dd3221
 	google.golang.org/grpc v1.0.5
 	gopkg.in/rethinkdb/rethinkdb-go.v6 v6.2.1
